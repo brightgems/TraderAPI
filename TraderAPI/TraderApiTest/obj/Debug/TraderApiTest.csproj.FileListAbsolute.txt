@@ -1,0 +1,7 @@
+C:\CarlSnow\Project\TraderAPI\TraderAPI\TraderApiTest\bin\Debug\TraderApiTest.exe.config
+C:\CarlSnow\Project\TraderAPI\TraderAPI\TraderApiTest\bin\Debug\TraderApiTest.exe
+C:\CarlSnow\Project\TraderAPI\TraderAPI\TraderApiTest\bin\Debug\TraderApiTest.pdb
+C:\CarlSnow\Project\TraderAPI\TraderAPI\TraderApiTest\bin\Debug\XtTraderNetApi.dll
+C:\CarlSnow\Project\TraderAPI\TraderAPI\TraderApiTest\obj\Debug\TraderApiTest.csprojResolveAssemblyReference.cache
+C:\CarlSnow\Project\TraderAPI\TraderAPI\TraderApiTest\obj\Debug\TraderApiTest.exe
+C:\CarlSnow\Project\TraderAPI\TraderAPI\TraderApiTest\obj\Debug\TraderApiTest.pdb

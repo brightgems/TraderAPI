@@ -1,0 +1,39 @@
+﻿namespace TraderAPI
+{
+    public enum EBrokerPriceType
+    {
+        BROKER_PRICE_ANY = 49,  //市价
+        BROKER_PRICE_LIMIT, //限价
+        BROKER_PRICE_BEST, //最优价
+        BROKER_PRICE_PROP_ALLOTMENT = 52,  //配股
+        BROKER_PRICE_PROP_REFER, //转托
+        BROKER_PRICE_PROP_SUBSCRIBE, //申购
+        BROKER_PRICE_PROP_BUYBACK, //回购
+        BROKER_PRICE_PROP_PLACING, //配售
+        BROKER_PRICE_PROP_DECIDE, //指定
+        BROKER_PRICE_PROP_EQUITY, //转股
+        BROKER_PRICE_PROP_SELLBACK, //回售
+        BROKER_PRICE_PROP_DIVIDEND, //股息
+        BROKER_PRICE_PROP_SHENZHEN_PLACING, //深圳配售确认
+        BROKER_PRICE_PROP_CANCEL_PLACING, //配售放弃
+        BROKER_PRICE_PROP_WDZY, //无冻质押
+        BROKER_PRICE_PROP_DJZY, //冻结质押
+        BROKER_PRICE_PROP_WDJY, //无冻解押
+        BROKER_PRICE_PROP_JDJY, //解冻解押
+        BROKER_PRICE_PROP_ETF, //ETF申购
+        BROKER_PRICE_PROP_VOTE, //投票
+        BROKER_PRICE_PROP_YYSGYS, //要约收购预售
+        BROKER_PRICE_PROP_YSYYJC, //预售要约解除
+        BROKER_PRICE_PROP_FUND_DEVIDEND, //基金设红
+        BROKER_PRICE_PROP_FUND_ENTRUST, //基金申赎
+        BROKER_PRICE_PROP_CROSS_MARKET, //跨市转托
+        BROKER_PRICE_PROP_EXERCIS, //权证行权
+        BROKER_PRICE_PROP_PEER_PRICE_FIRST, //对手方最优价格
+        BROKER_PRICE_PROP_L5_FIRST_LIMITPX, //最优五档即时成交剩余转限价
+        BROKER_PRICE_PROP_MIME_PRICE_FIRST, //本方最优价格
+        BROKER_PRICE_PROP_INSTBUSI_RESTCANCEL, //即时成交剩余撤销
+        BROKER_PRICE_PROP_L5_FIRST_CANCEL, //最优五档即时成交剩余撤销
+        BROKER_PRICE_PROP_FULL_REAL_CANCEL, //全额成交并撤单
+        _C_BRPT_COUNT,
+    };
+}

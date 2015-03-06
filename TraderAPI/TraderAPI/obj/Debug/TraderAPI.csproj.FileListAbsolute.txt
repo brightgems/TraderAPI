@@ -1,0 +1,6 @@
+C:\CarlSnow\Project\TraderAPI\TraderAPI\TraderAPI\obj\Debug\TraderAPI.csprojResolveAssemblyReference.cache
+C:\CarlSnow\Project\TraderAPI\TraderAPI\TraderAPI\bin\Debug\TraderAPI.dll
+C:\CarlSnow\Project\TraderAPI\TraderAPI\TraderAPI\bin\Debug\TraderAPI.pdb
+C:\CarlSnow\Project\TraderAPI\TraderAPI\TraderAPI\obj\Debug\TraderAPI.dll
+C:\CarlSnow\Project\TraderAPI\TraderAPI\TraderAPI\obj\Debug\TraderAPI.pdb
+C:\CarlSnow\Project\TraderAPI\TraderAPI\TraderAPI\bin\Debug\XtTraderNetApi.dll
